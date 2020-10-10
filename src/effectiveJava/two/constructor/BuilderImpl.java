@@ -1,4 +1,4 @@
-package effectiveJava.one;
+package effectiveJava.two.constructor;
 
 public class BuilderImpl implements Builder{
     @Override

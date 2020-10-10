@@ -1,8 +1,8 @@
-package effectiveJava.one;
+package effectiveJava.two.constructor;
     /**
      * 创建和销毁对象
      */
-public class OneTest {
+public class Test {
 
     /**
      * Builder模式
