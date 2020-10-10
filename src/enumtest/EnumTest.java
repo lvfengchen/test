@@ -1,4 +1,8 @@
-public class Test {
+package enumtest;
+
+import enumtest.DemoEnum;
+
+public class EnumTest {
     public static void main(String[] args){
         if("01".equals(DemoEnum.lfc.getCode())){
             System.out.println("Hello lfc!");

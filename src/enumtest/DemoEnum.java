@@ -1,3 +1,5 @@
+package enumtest;
+
 public enum DemoEnum {
     /**
      * 枚举Demo
