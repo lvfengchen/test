@@ -25,6 +25,5 @@ public class Test {
             default:
                 System.out.println("Hello World!");
         }
-
     }
 }
